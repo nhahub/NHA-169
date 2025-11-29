@@ -1,0 +1,708 @@
+student_id,behaviour_record
+1,Good
+2,Good
+3,Good
+4,Good
+5,Needs Support
+6,Good
+7,Good
+8,Good
+9,Good
+10,Good
+11,Needs Support
+12,Good
+13,Good
+14,Good
+15,Needs Support
+16,Excellent
+17,Good
+18,Good
+19,Excellent
+20,Needs Support
+21,Needs Support
+22,Good
+23,Good
+24,Needs Support
+25,Excellent
+26,Good
+27,Needs Support
+28,Good
+29,Good
+30,Good
+31,Good
+32,Good
+33,Good
+34,Excellent
+35,Good
+36,Needs Support
+37,Excellent
+38,Excellent
+39,Good
+40,Good
+41,Needs Support
+42,Good
+43,Good
+44,Good
+45,Excellent
+46,Needs Support
+47,Good
+48,Good
+49,Excellent
+50,Excellent
+51,Good
+52,Needs Support
+53,Good
+54,Good
+55,Good
+56,Excellent
+57,Excellent
+58,Good
+59,Good
+60,Good
+61,Good
+62,Good
+63,Excellent
+64,Good
+65,Needs Support
+66,Good
+67,Good
+68,Good
+69,Needs Support
+70,Good
+71,Good
+72,Good
+73,Good
+74,Good
+75,Good
+76,Good
+77,Needs Support
+78,Good
+79,Good
+80,Good
+81,Good
+82,Excellent
+83,Excellent
+84,Excellent
+85,Good
+86,Good
+87,Needs Support
+88,Good
+89,Needs Support
+90,Excellent
+91,Excellent
+92,Excellent
+93,Good
+94,Excellent
+95,Good
+96,Good
+97,Good
+98,Good
+99,Good
+100,Good
+101,Good
+102,Good
+103,Good
+104,Good
+105,Needs Support
+106,Good
+107,Good
+108,Excellent
+109,Good
+110,Excellent
+111,Good
+112,Needs Support
+113,Excellent
+114,Good
+115,Good
+116,Excellent
+117,Good
+118,Excellent
+119,Good
+120,Excellent
+121,Good
+122,Good
+123,Good
+124,Good
+125,Good
+126,Good
+127,Excellent
+128,Excellent
+129,Good
+130,Good
+131,Good
+132,Good
+133,Good
+134,Excellent
+135,Needs Support
+136,Good
+137,Good
+138,Excellent
+139,Good
+140,Good
+141,Good
+142,Excellent
+143,Good
+144,Needs Support
+145,Needs Support
+146,Good
+147,Excellent
+148,Needs Support
+149,Good
+150,Excellent
+151,Excellent
+152,Good
+153,Excellent
+154,Good
+155,Needs Support
+156,Excellent
+157,Excellent
+158,Good
+159,Good
+160,Excellent
+161,Excellent
+162,Good
+163,Good
+164,Good
+165,Good
+166,Good
+167,Good
+168,Good
+169,Needs Support
+170,Excellent
+171,Excellent
+172,Good
+173,Good
+174,Excellent
+175,Excellent
+176,Good
+177,Good
+178,Good
+179,Good
+180,Needs Support
+181,Good
+182,Good
+183,Good
+184,Excellent
+185,Good
+186,Excellent
+187,Good
+188,Good
+189,Excellent
+190,Good
+191,Good
+192,Good
+193,Excellent
+194,Excellent
+195,Needs Support
+196,Good
+197,Good
+198,Excellent
+199,Good
+200,Needs Support
+201,Excellent
+202,Excellent
+203,Excellent
+204,Good
+205,Good
+206,Good
+207,Needs Support
+208,Good
+209,Good
+210,Good
+211,Excellent
+212,Needs Support
+213,Good
+214,Good
+215,Good
+216,Good
+217,Good
+218,Good
+219,Good
+220,Good
+221,Good
+222,Good
+223,Good
+224,Good
+225,Good
+226,Good
+227,Good
+228,Good
+229,Good
+230,Excellent
+231,Needs Support
+232,Needs Support
+233,Excellent
+234,Good
+235,Good
+236,Excellent
+237,Good
+238,Good
+239,Good
+240,Good
+241,Good
+242,Good
+243,Good
+244,Good
+245,Excellent
+246,Needs Support
+247,Good
+248,Good
+249,Excellent
+250,Good
+251,Good
+252,Needs Support
+253,Good
+254,Excellent
+255,Excellent
+256,Good
+257,Good
+258,Excellent
+259,Needs Support
+260,Excellent
+261,Good
+262,Good
+263,Needs Support
+264,Excellent
+265,Excellent
+266,Excellent
+267,Good
+268,Good
+269,Good
+270,Needs Support
+271,Needs Support
+272,Good
+273,Good
+274,Good
+275,Good
+276,Good
+277,Good
+278,Good
+279,Excellent
+280,Needs Support
+281,Good
+282,Good
+283,Good
+284,Good
+285,Excellent
+286,Excellent
+287,Needs Support
+288,Needs Support
+289,Good
+290,Good
+291,Good
+292,Good
+293,Needs Support
+294,Excellent
+295,Needs Support
+296,Good
+297,Good
+298,Good
+299,Good
+300,Good
+301,Good
+302,Good
+303,Needs Support
+304,Good
+305,Needs Support
+306,Needs Support
+307,Needs Support
+308,Good
+309,Good
+310,Good
+311,Good
+312,Good
+313,Good
+314,Good
+315,Needs Support
+316,Good
+317,Needs Support
+318,Excellent
+319,Needs Support
+320,Good
+321,Good
+322,Good
+323,Good
+324,Good
+325,Needs Support
+326,Excellent
+327,Needs Support
+328,Excellent
+329,Good
+330,Excellent
+331,Good
+332,Excellent
+333,Good
+334,Good
+335,Good
+336,Needs Support
+337,Excellent
+338,Good
+339,Good
+340,Good
+341,Good
+342,Needs Support
+343,Good
+344,Good
+345,Good
+346,Good
+347,Excellent
+348,Good
+349,Excellent
+350,Good
+351,Good
+352,Good
+353,Good
+354,Excellent
+355,Good
+356,Good
+357,Excellent
+358,Good
+359,Good
+360,Good
+361,Good
+362,Good
+363,Good
+364,Needs Support
+365,Good
+366,Good
+367,Needs Support
+368,Good
+369,Good
+370,Excellent
+371,Needs Support
+372,Good
+373,Excellent
+374,Good
+375,Good
+376,Good
+377,Good
+378,Good
+379,Excellent
+380,Good
+381,Good
+382,Good
+383,Good
+384,Excellent
+385,Good
+386,Good
+387,Needs Support
+388,Good
+389,Needs Support
+390,Good
+391,Good
+392,Good
+393,Good
+394,Needs Support
+395,Good
+396,Excellent
+397,Good
+398,Good
+399,Excellent
+400,Good
+401,Good
+402,Excellent
+403,Good
+404,Needs Support
+405,Good
+406,Needs Support
+407,Excellent
+408,Good
+409,Good
+410,Good
+411,Needs Support
+412,Good
+413,Good
+414,Needs Support
+415,Good
+416,Good
+417,Excellent
+418,Needs Support
+419,Good
+420,Good
+421,Needs Support
+422,Good
+423,Needs Support
+424,Good
+425,Good
+426,Good
+427,Excellent
+428,Good
+429,Good
+430,Needs Support
+431,Excellent
+432,Good
+433,Excellent
+434,Excellent
+435,Good
+436,Good
+437,Excellent
+438,Needs Support
+439,Good
+440,Needs Support
+441,Good
+442,Good
+443,Good
+444,Good
+445,Good
+446,Good
+447,Good
+448,Good
+449,Excellent
+450,Good
+451,Excellent
+452,Needs Support
+453,Needs Support
+454,Needs Support
+455,Excellent
+456,Good
+457,Good
+458,Excellent
+459,Excellent
+460,Good
+461,Good
+462,Needs Support
+463,Needs Support
+464,Excellent
+465,Good
+466,Needs Support
+467,Good
+468,Needs Support
+469,Good
+470,Excellent
+471,Needs Support
+472,Needs Support
+473,Good
+474,Good
+475,Excellent
+476,Needs Support
+477,Good
+478,Good
+479,Excellent
+480,Good
+481,Good
+482,Excellent
+483,Good
+484,Excellent
+485,Excellent
+486,Good
+487,Good
+488,Good
+489,Good
+490,Good
+491,Good
+492,Good
+493,Good
+494,Needs Support
+495,Excellent
+496,Good
+497,Excellent
+498,Needs Support
+499,Good
+500,Good
+501,Good
+502,Good
+503,Good
+504,Good
+505,Needs Support
+506,Excellent
+507,Good
+508,Good
+509,Good
+510,Needs Support
+511,Needs Support
+512,Needs Support
+513,Good
+514,Good
+515,Excellent
+516,Needs Support
+517,Excellent
+518,Good
+519,Excellent
+520,Good
+521,Good
+522,Excellent
+523,Needs Support
+524,Good
+525,Good
+526,Good
+527,Good
+528,Good
+529,Good
+530,Needs Support
+531,Needs Support
+532,Excellent
+533,Excellent
+534,Good
+535,Good
+536,Good
+537,Excellent
+538,Good
+539,Good
+540,Needs Support
+541,Needs Support
+542,Good
+543,Excellent
+544,Excellent
+545,Good
+546,Needs Support
+547,Excellent
+548,Good
+549,Good
+550,Good
+551,Good
+552,Good
+553,Needs Support
+554,Excellent
+555,Good
+556,Needs Support
+557,Excellent
+558,Good
+559,Excellent
+560,Good
+561,Good
+562,Good
+563,Good
+564,Excellent
+565,Good
+566,Good
+567,Good
+568,Good
+569,Needs Support
+570,Good
+571,Good
+572,Excellent
+573,Excellent
+574,Needs Support
+575,Good
+576,Excellent
+577,Good
+578,Good
+579,Good
+580,Excellent
+581,Good
+582,Excellent
+583,Needs Support
+584,Good
+585,Good
+586,Good
+587,Needs Support
+588,Good
+589,Needs Support
+590,Good
+591,Excellent
+592,Good
+593,Good
+594,Good
+595,Good
+596,Needs Support
+597,Good
+598,Good
+599,Good
+600,Good
+601,Excellent
+602,Good
+603,Needs Support
+604,Good
+605,Excellent
+606,Needs Support
+607,Good
+608,Good
+609,Good
+610,Needs Support
+611,Good
+612,Excellent
+613,Good
+614,Good
+615,Good
+616,Good
+617,Good
+618,Good
+619,Needs Support
+620,Good
+621,Good
+622,Excellent
+623,Needs Support
+624,Excellent
+625,Good
+626,Good
+627,Needs Support
+628,Good
+629,Good
+630,Good
+631,Good
+632,Good
+633,Good
+634,Good
+635,Needs Support
+636,Good
+637,Good
+638,Good
+639,Excellent
+640,Good
+641,Excellent
+642,Needs Support
+643,Excellent
+644,Excellent
+645,Good
+646,Good
+647,Needs Support
+648,Excellent
+649,Excellent
+650,Needs Support
+651,Good
+652,Good
+653,Excellent
+654,Excellent
+655,Excellent
+656,Excellent
+657,Needs Support
+658,Excellent
+659,Needs Support
+660,Good
+661,Excellent
+662,Excellent
+663,Good
+664,Excellent
+665,Needs Support
+666,Excellent
+667,Needs Support
+668,Good
+669,Needs Support
+670,Excellent
+671,Good
+672,Good
+673,Excellent
+674,Excellent
+675,Good
+676,Excellent
+677,Needs Support
+678,Good
+679,Excellent
+680,Good
+681,Good
+682,Excellent
+683,Good
+684,Good
+685,Good
+686,Good
+687,Excellent
+688,Good
+689,Good
+690,Good
+691,Good
+692,Good
+693,Needs Support
+694,Needs Support
+695,Good
+696,Excellent
+697,Excellent
+698,Good
+699,Good
+700,Needs Support
+701,Excellent
+702,Good
+703,Good
+704,Good
+705,Good
+706,Good
+707,Good
